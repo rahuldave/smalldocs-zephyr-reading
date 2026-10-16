@@ -1,0 +1,28 @@
+{
+  "name": "zephyr-reading",
+  "title": "Zephyr Reading",
+  "upstream": "https://bootswatch.com/zephyr/",
+  "version": "0.1.0",
+  "palette": {
+    "paper": "#ffffff",
+    "ink": "#495057",
+    "panel": "#f4f6fb",
+    "muted": "#5c6375",
+    "link": "#3459e6",
+    "button": "#3459e6",
+    "line": "#c2c9d8",
+    "on-button": "#ffffff",
+    "link-hover": "#3459e6",
+    "button-hover": "#3459e6",
+    "focus-rgb": "52, 89, 230",
+    "success-bg": "#e6f1e8",
+    "success-ink": "#204b32",
+    "success-line": "#7e9f88",
+    "warning-bg": "#fbf1dc",
+    "warning-ink": "#604414",
+    "warning-line": "#b59a65",
+    "danger-bg": "#f9e9e5",
+    "danger-ink": "#803c32",
+    "danger-line": "#ba8b80"
+  }
+}
