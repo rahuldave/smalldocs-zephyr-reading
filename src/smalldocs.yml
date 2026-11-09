@@ -1,1 +1,3 @@
-css: zephyr-reading.css
+css:
+  light: zephyr-reading-light.css
+  dark: zephyr-reading-dark.css
